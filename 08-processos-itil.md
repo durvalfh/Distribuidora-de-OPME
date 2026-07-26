@@ -2,7 +2,7 @@
 
 | Versão | Data | Autor | Revisão |
 |--------|------|-------|---------|
-| 1.0 | [A PREENCHER] | Durval | Inicial |
+| 1.0 |  | Durval | Inicial |
 
 Este documento formaliza os processos que sustentam a arquitetura no dia a dia. Cada um segue a
 estrutura ITIL: objetivo, escopo, responsáveis, entradas, fluxo, saídas, KPIs, ferramentas e exceções.
