@@ -2,7 +2,7 @@
 
 | Versão | Data | Autor | Revisão |
 |--------|------|-------|---------|
-| 1.0 | [A PREENCHER] | Durval | Inicial |
+| 1.0 | | Durval | Inicial |
 
 ---
 
