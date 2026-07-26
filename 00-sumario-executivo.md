@@ -6,7 +6,7 @@
 | **Empresa** | Distribuidora Nacional de OPME |
 | **Horizonte** | 6 a 18 meses (com plano detalhado dos primeiros 90 dias) |
 | **Versão** | 1.0 |
-| **Data** | [A PREENCHER] |
+| **Data** |  |
 | **Autor** | Durval — Especialista de Infraestrutura de TI |
 
 ---
