@@ -30,7 +30,7 @@ documentos executivos (para a diretoria) e técnicos (para o time de engenharia)
 08	Processos Operacionais (ITIL)	Técnico	Incidente, mudança, disponibilidade, backup/DR, identidade, fornecedores
 Diagramas: `docs/diagramas/` — topologia atual (AS-IS), alvo (TO-BE),
 conectividade por tier e fluxo de continuidade (Mermaid + orientação para draw.io).
-Apresentação: `apresentacao/` — deck executivo (`.pptx`) para a segunda entrevista.
+
 ---
 🎯 A tese em uma frase
 > **Primeiro estabilizar o que para a operação (conectividade crítica, restauração confiável e
